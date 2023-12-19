@@ -9,9 +9,9 @@
 #include "ETOpenGLWidget.h"
 
 #include <math.h>
-#include <Fl/gl.h>
-#include <Fl/glu.h>
-#include <Fl/FL.h>
+#include  </usr/local/include/FL/gl.H>
+#include  </usr/local/include/FL/glu.h>
+#include  </usr/local/include/FL/FL.h>
 
 #include "ETGMesh.h"
 

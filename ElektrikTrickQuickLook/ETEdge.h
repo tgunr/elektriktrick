@@ -10,6 +10,7 @@
 #define __Elektriktrick__ETEdge__
 
 #include "ETVector.h"
+#include <stdint.h>
 
 class ETEdge
 {

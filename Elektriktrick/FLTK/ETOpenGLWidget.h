@@ -9,7 +9,7 @@
 #ifndef ETOpenGLWidget_hpp
 #define ETOpenGLWidget_hpp
 
-#include <FL/Fl_Gl_Window.H>
+#include </usr/local/include/FL/Fl_Gl_Window.H>
 
 class ETOpenGLWidget : public Fl_Gl_Window
 {

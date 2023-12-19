@@ -9,7 +9,7 @@
 #ifndef ETOpenGLSurface_hpp
 #define ETOpenGLSurface_hpp
 
-#include <Fl/gl.h>
+#include  </usr/local/include/FL/gl.H>
 
 
 class ETOpenGLSurface

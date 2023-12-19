@@ -31,9 +31,9 @@
 	<key>CFBundleName</key>
 	<string>${PRODUCT_NAME}</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.0</string>
+	<string>$(MARKETING_VERSION)</string>
 	<key>CFBundleVersion</key>
-	<string>1.1.0</string>
+	<string>$(CURRENT_PROJECT_VERSION)</string>
 	<key>CFPlugInDynamicRegisterFunction</key>
 	<string></string>
 	<key>CFPlugInDynamicRegistration</key>
@@ -80,12 +80,12 @@
 			<string>com.elektriktrick.stl</string>
 			<key>UTTypeTagSpecification</key>
 			<dict>
-				<key>public.standard-tesselated-geometry-format</key>
-				<string></string>
 				<key>public.filename-extension</key>
 				<array>
 					<string>stl</string>
 				</array>
+				<key>public.standard-tesselated-geometry-format</key>
+				<string></string>
 			</dict>
 		</dict>
 		<dict>

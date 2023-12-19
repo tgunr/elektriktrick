@@ -135,7 +135,8 @@ NSSearchPathForDirectoriesInDomains
 #include <sys/stat.h>
 #include <unistd.h>
 
-
+#if 0
+// use this to decipher XYZPrinter GCode files (or the C++ equivalent):
 void test()
 {
     const size_t offset = 0;
@@ -185,9 +186,6 @@ void test()
     }
     fprintf(stderr, "\n----\n\n");
 }
-
-#if 0
-// use this to decipher XYZPrinter GCode files (or the C++ equivalent):
 
 private static void decode() throws Exception {
     String key = "@xyzprinting.com";

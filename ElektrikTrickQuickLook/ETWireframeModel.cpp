@@ -83,7 +83,7 @@ void ETWireframeModel::Prepare3DDrawing()
 
 #if ET_USE_GL
 
-#include <Fl/GL.h>
+#include  </usr/local/include/FL/GL.H>
 
 /**
  * Draw all triangles in the model in OpenGL.

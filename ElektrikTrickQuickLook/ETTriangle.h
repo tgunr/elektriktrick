@@ -10,7 +10,7 @@
 #define __Electrictrick__ETTriangle__
 
 #include "ETVector.h"
-
+#include <stdint.h>
 
 class ETTriangle
 {

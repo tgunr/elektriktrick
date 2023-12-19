@@ -8,10 +8,10 @@
 
 #include "ETFileBrowser.h"
 
-#include <FL/filename.h>
+#include </usr/local/include/FL/filename.H>
 
 #include <stdlib.h>
-
+#include <cctype>
 
 static int numericsort(struct dirent **A, struct dirent **B, int cs) {
     const char* a = (*A)->d_name;
@@ -120,7 +120,7 @@ int ETFileBrowser::load(const char *path)
                          files[i]->d_name);
 
                 icon = Fl_File_Icon::find(filename);
-                if ((icon && icon->type() == Fl_File_Icon::DIRECTORY) || _fl_filename_isdir_quick(filename)) {
+                if ((icon && icon->type() == Fl_File_Icon::DIRECTORY) || fl_filename_isdir(filename)) {
                     if (pDirFilter==0 || strcmp(files[i]->d_name, "../")==0 || fl_filename_match(files[i]->d_name, pDirFilter)) {
                         num_dirs ++;
 #ifdef __APPLE__

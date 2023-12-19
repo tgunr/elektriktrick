@@ -14,7 +14,7 @@
 #include <CoreGraphics/CGContext.h>
 #include <CoreServices/CoreServices.h>
 
-#include <FL/Fl_JPEG_Image.h>
+#include </usr/local/include/FL/Fl_JPEG_Image.H>
 
 
 #include <stdlib.h>
@@ -22,7 +22,7 @@
 #include <string.h>
 #include <setjmp.h>
 extern "C" {
-#include "/Users/matt/dev/fltk-1.3.4/jpeg/jpeglib.h"
+#include </opt/homebrew/Cellar/jpeg/9e/include/jpeglib.h>
 }
 
 

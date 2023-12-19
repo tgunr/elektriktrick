@@ -27,9 +27,8 @@
 #define FLIO_STREAM
 
 
-#include <FL/x.H>
-#include <FL/Fl_Box.H>
-
+#include </usr/local/include/FL/Fl_Box.H>
+#include </usr/local/include/FL/x.H>
 
 /**
  * A streaming data communication widget for FLTK1.

@@ -34,8 +34,8 @@
 #include "Flio_Serial_Port.h"
 //#include "globals.h"
 
-#include <FL/Fl.H>
-#include <FL/fl_draw.h>
+#include "/usr/local/include/FL/Fl.H"
+#include "/usr/local/include/FL/fl_draw.H"
 
 #include <stdlib.h>
 #include <stdio.h>

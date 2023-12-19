@@ -8,7 +8,7 @@
 
 #include "ETGMesh.h"
 
-#include <FL/fl_ask.h>
+#include </usr/local/include/FL/fl_ask.h>
 #include <errno.h>
 
 
@@ -143,12 +143,12 @@ void sendFloat(FILE *f, float v) {
  */
 
 
-#include <FL/Fl.h>
-#include <FL/Fl_Button.h>
-#include <FL/Fl_Gl_Window.h>
-#include <FL/Fl_Slider.h>
-#include <FL/gl.h>
-#include <FL/glu.h>
+#include </usr/local/include/FL/Fl.H>
+#include </usr/local/include/FL/Fl_Button.H>
+#include </usr/local/include/FL/Fl_Gl_Window.H>
+#include </usr/local/include/FL/Fl_Slider.H>
+#include </usr/local/include/FL/gl.h>
+#include </usr/local/include/FL/glu.h>
 
 #include <stdio.h>
 #include <stdlib.h>

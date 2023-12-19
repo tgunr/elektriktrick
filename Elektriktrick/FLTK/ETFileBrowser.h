@@ -9,7 +9,7 @@
 #ifndef ETFileBrowser_h
 #define ETFileBrowser_h
 
-#include <FL/Fl_File_Browser.H>
+#include </usr/local/include/FL/Fl_File_Browser.H>
 
 
 class ETFileBrowser : public Fl_File_Browser
