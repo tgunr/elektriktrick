@@ -4,7 +4,4 @@
    <FileRef
       location = "group:Elektriktrick.xcodeproj">
    </FileRef>
-   <FileRef
-      location = "group:../../Libraries/fltk/build/Xcode/FLTK.xcodeproj">
-   </FileRef>
 </Workspace>
