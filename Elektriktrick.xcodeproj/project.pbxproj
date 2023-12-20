@@ -53,7 +53,6 @@
 		C9B7C53E1E1085A5006D944C /* ETFileBrowser.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C9B7C53C1E1085A5006D944C /* ETFileBrowser.cpp */; };
 		C9D5EF721961973A00AEDF1C /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = C9D5EF711961973A00AEDF1C /* main.c */; };
 		C9D5EF7C196197FD00AEDF1C /* ElektrikTrickQuickLook-Prefix.pch in Headers */ = {isa = PBXBuildFile; fileRef = C9D5EF78196197FD00AEDF1C /* ElektrikTrickQuickLook-Prefix.pch */; };
-		C9D5EF7D196197FD00AEDF1C /* InfoPlist.strings in Rez */ = {isa = PBXBuildFile; fileRef = C9D5EF79196197FD00AEDF1C /* InfoPlist.strings */; };
 		C9D5EF8C1961981900AEDF1C /* ETModel.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C9D5EF7E1961981900AEDF1C /* ETModel.cpp */; };
 		C9D5EF8D1961981900AEDF1C /* ETModel.h in Headers */ = {isa = PBXBuildFile; fileRef = C9D5EF7F1961981900AEDF1C /* ETModel.h */; };
 		C9D5EF8E1961981900AEDF1C /* ETModelSTL.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C9D5EF801961981900AEDF1C /* ETModelSTL.cpp */; };
@@ -66,7 +65,7 @@
 		C9D5EF971961981900AEDF1C /* ETVector.h in Headers */ = {isa = PBXBuildFile; fileRef = C9D5EF891961981900AEDF1C /* ETVector.h */; };
 		C9D5EF981961981900AEDF1C /* GeneratePreviewForURL.mm in Sources */ = {isa = PBXBuildFile; fileRef = C9D5EF8A1961981900AEDF1C /* GeneratePreviewForURL.mm */; };
 		C9D5EF991961981900AEDF1C /* GenerateThumbnailForURL.mm in Sources */ = {isa = PBXBuildFile; fileRef = C9D5EF8B1961981900AEDF1C /* GenerateThumbnailForURL.mm */; };
-		C9D5EF9B196198E200AEDF1C /* ElektrikTrickQuickLook.qlgenerator in CopyFiles */ = {isa = PBXBuildFile; fileRef = C9D5EF621961973A00AEDF1C /* ElektrikTrickQuickLook.qlgenerator */; };
+		C9D5EF9B196198E200AEDF1C /* ElektrikTrickQuickLook.qlgenerator in CopyFiles */ = {isa = PBXBuildFile; fileRef = C9D5EF621961973A00AEDF1C /* ElektrikTrickQuickLook.qlgenerator */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
 		C9F530781BB33D4D00D198AF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C9F530771BB33D4D00D198AF /* Assets.xcassets */; };
 		C9F5307B1BB33D4D00D198AF /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = C9F530791BB33D4D00D198AF /* MainMenu.xib */; };
 		C9F530851BB340DD00D198AF /* ElektrikTrickQuickLook.qlgenerator in CopyFiles */ = {isa = PBXBuildFile; fileRef = C9D5EF621961973A00AEDF1C /* ElektrikTrickQuickLook.qlgenerator */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
@@ -148,7 +147,6 @@
 		C9D5EF711961973A00AEDF1C /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		C9D5EF77196197FD00AEDF1C /* ElektrikTrickQuickLook-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "ElektrikTrickQuickLook-Info.plist"; sourceTree = "<group>"; };
 		C9D5EF78196197FD00AEDF1C /* ElektrikTrickQuickLook-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "ElektrikTrickQuickLook-Prefix.pch"; sourceTree = "<group>"; };
-		C9D5EF7A196197FD00AEDF1C /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		C9D5EF7E1961981900AEDF1C /* ETModel.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ETModel.cpp; sourceTree = "<group>"; };
 		C9D5EF7F1961981900AEDF1C /* ETModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ETModel.h; sourceTree = "<group>"; };
 		C9D5EF801961981900AEDF1C /* ETModelSTL.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ETModelSTL.cpp; sourceTree = "<group>"; };
@@ -305,7 +303,6 @@
 			children = (
 				C9D5EF77196197FD00AEDF1C /* ElektrikTrickQuickLook-Info.plist */,
 				C9D5EF78196197FD00AEDF1C /* ElektrikTrickQuickLook-Prefix.pch */,
-				C9D5EF79196197FD00AEDF1C /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -369,6 +366,7 @@
 				C9D5EF5F1961973A00AEDF1C /* Resources */,
 				C9D5EF601961973A00AEDF1C /* Rez */,
 				C9D5EF9A196198AC00AEDF1C /* CopyFiles */,
+				757396252B33ACE300814237 /* ShellScript */,
 			);
 			buildRules = (
 			);
@@ -457,11 +455,30 @@
 			isa = PBXRezBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C9D5EF7D196197FD00AEDF1C /* InfoPlist.strings in Rez */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXRezBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		757396252B33ACE300814237 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+			);
+			outputFileListPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "qlmanage -r cache\nqlmanage -r\n# Type a script or drag a script file from your workspace to insert its path\n";
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		C9D5EF5C1961973A00AEDF1C /* Sources */ = {
@@ -522,14 +539,6 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		C9D5EF79196197FD00AEDF1C /* InfoPlist.strings */ = {
-			isa = PBXVariantGroup;
-			children = (
-				C9D5EF7A196197FD00AEDF1C /* en */,
-			);
-			name = InfoPlist.strings;
-			sourceTree = "<group>";
-		};
 		C9F530791BB33D4D00D198AF /* MainMenu.xib */ = {
 			isa = PBXVariantGroup;
 			children = (
