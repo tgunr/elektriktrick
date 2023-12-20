@@ -601,7 +601,7 @@
 				MACOSX_DEPLOYMENT_TARGET = "$(RECOMMENDED_MACOSX_DEPLOYMENT_TARGET)";
 				ONLY_ACTIVE_ARCH = YES;
 				OTHER_LDFLAGS = (
-					"-L/Users/davec/Dropbox/Sources/Libraries/fltk/build/Makefile/lib",
+					"-L${PROJECT_DIR}/fltk/build/Xcode/lib/Debug",
 					"-lfltk",
 					"-lfltk_forms",
 					"-lfltk_z",
@@ -675,7 +675,7 @@
 				);
 				MACOSX_DEPLOYMENT_TARGET = "$(RECOMMENDED_MACOSX_DEPLOYMENT_TARGET)";
 				OTHER_LDFLAGS = (
-					"-L/Users/davec/Dropbox/Sources/Libraries/fltk/build/Makefile/lib",
+					"-L${BUILT_PRODUCTS_DIR}/lib/Debug",
 					"-lfltk",
 					"-lfltk_forms",
 					"-lfltk_z",
