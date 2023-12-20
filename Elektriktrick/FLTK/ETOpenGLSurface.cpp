@@ -125,18 +125,18 @@ ETOpenGLSurface::ETOpenGLSurface(int w, int h)
         struct jpeg_compress_struct cinfo;
         struct jpeg_error_mgr jerr;
         cinfo.err = jpeg_std_error((jpeg_error_mgr *)&jerr);
-        jpeg_create_compress(&cinfo);
+        fltk_jpeg_create_compress(&cinfo);
         FILE* outfile;
         outfile = fopen("/Users/matt/test.jpg", "wb");
         if (!outfile) return;
-        jpeg_stdio_dest(&cinfo, outfile);
+        fltk_jpeg_stdio_dest(&cinfo, outfile);
         cinfo.image_width = w;
         cinfo.image_height = h;
         cinfo.input_components = 3;
         cinfo.in_color_space = JCS_RGB; /* colorspace of input image */
-        jpeg_set_defaults(&cinfo);
-        jpeg_set_quality(&cinfo, 90, TRUE);
-        jpeg_start_compress(&cinfo, TRUE);
+        fltk_jpeg_set_defaults(&cinfo);
+        fltk_jpeg_set_quality(&cinfo, 90, TRUE);
+        fltk_jpeg_start_compress(&cinfo, TRUE);
         JSAMPROW row_pointer[1];        /* pointer to a single row */
         int row_stride = w*3;
         unsigned char *dd = pixels;
@@ -144,8 +144,8 @@ ETOpenGLSurface::ETOpenGLSurface(int w, int h)
             row_pointer[0] = dd+(cinfo.next_scanline * row_stride);
             jpeg_write_scanlines(&cinfo, row_pointer, 1);
         }
-        jpeg_finish_compress(&cinfo);
-        jpeg_destroy_compress(&cinfo);
+        fltk_jpeg_finish_compress(&cinfo);
+        fltk_jpeg_destroy_compress(&cinfo);
         fclose(outfile);
     }
 

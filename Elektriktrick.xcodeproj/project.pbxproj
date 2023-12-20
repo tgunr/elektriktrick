@@ -13,6 +13,18 @@
 		752999102B31E20D00A9CF91 /* CoreServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7529990F2B31E20D00A9CF91 /* CoreServices.framework */; };
 		752999122B31E21A00A9CF91 /* ApplicationServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 752999112B31E21A00A9CF91 /* ApplicationServices.framework */; };
 		75299C342B322A6D00A9CF91 /* libfltk.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 75299B932B322A2A00A9CF91 /* libfltk.a */; };
+		75F3F0312B334EDA00F4EB5F /* CoreFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 752999092B31E1BA00A9CF91 /* CoreFoundation.framework */; };
+		75F3F0322B334EE900F4EB5F /* QuickLook.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7529990D2B31E1F500A9CF91 /* QuickLook.framework */; };
+		75F3F0332B334EFD00F4EB5F /* AppKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7529990B2B31E1DC00A9CF91 /* AppKit.framework */; };
+		75F3F0342B334F0700F4EB5F /* CoreServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7529990F2B31E20D00A9CF91 /* CoreServices.framework */; };
+		75F3F0352B334F1400F4EB5F /* ApplicationServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 752999112B31E21A00A9CF91 /* ApplicationServices.framework */; };
+		75F3F0362B334F8100F4EB5F /* libfltk_gl.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 75299B9B2B322A2A00A9CF91 /* libfltk_gl.a */; };
+		75F3F0372B334FA700F4EB5F /* libfltk_forms.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 75299B992B322A2A00A9CF91 /* libfltk_forms.a */; };
+		75F3F0382B334FA700F4EB5F /* libfltk_images.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 75299B9D2B322A2A00A9CF91 /* libfltk_images.a */; };
+		75F3F0392B334FA700F4EB5F /* libfltk_jpeg.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 75299B9F2B322A2A00A9CF91 /* libfltk_jpeg.a */; };
+		75F3F03A2B334FA700F4EB5F /* libfltk_png.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 75299BA12B322A2A00A9CF91 /* libfltk_png.a */; };
+		75F3F03B2B334FA700F4EB5F /* libfltk_z.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 75299BA32B322A2A00A9CF91 /* libfltk_z.a */; };
+		75F3F03C2B334FA700F4EB5F /* libfluid-lib.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 75299BA72B322A2A00A9CF91 /* libfluid-lib.a */; };
 		C94843441BD836790051AE08 /* ETGMesh.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C94843421BD836790051AE08 /* ETGMesh.cpp */; };
 		C94843471BD837C10051AE08 /* OpenGL.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C94843461BD837C10051AE08 /* OpenGL.framework */; };
 		C948434F1BD8385A0051AE08 /* ETSerialPort.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C94843491BD8385A0051AE08 /* ETSerialPort.cpp */; };
@@ -846,6 +858,13 @@
 			remoteGlobalIDString = 7626DC835E1C4CE79A6F35FD;
 			remoteInfo = fltk;
 		};
+		75F3EFBC2B334CBF00F4EB5F /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75299ADF2B322A2A00A9CF91 /* FLTK.xcodeproj */;
+			proxyType = 1;
+			remoteGlobalIDString = B0792D2BE0B64AA2A49D813A;
+			remoteInfo = ALL_BUILD;
+		};
 		C9F530801BB33D6500D198AF /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = C9D5EF351961961800AEDF1C /* Project object */;
@@ -958,7 +977,19 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				75F3F0372B334FA700F4EB5F /* libfltk_forms.a in Frameworks */,
+				75F3F0362B334F8100F4EB5F /* libfltk_gl.a in Frameworks */,
+				75F3F0382B334FA700F4EB5F /* libfltk_images.a in Frameworks */,
+				75F3F0392B334FA700F4EB5F /* libfltk_jpeg.a in Frameworks */,
+				75F3F03A2B334FA700F4EB5F /* libfltk_png.a in Frameworks */,
+				75F3F03B2B334FA700F4EB5F /* libfltk_z.a in Frameworks */,
 				75299C342B322A6D00A9CF91 /* libfltk.a in Frameworks */,
+				75F3F03C2B334FA700F4EB5F /* libfluid-lib.a in Frameworks */,
+				75F3F0352B334F1400F4EB5F /* ApplicationServices.framework in Frameworks */,
+				75F3F0342B334F0700F4EB5F /* CoreServices.framework in Frameworks */,
+				75F3F0332B334EFD00F4EB5F /* AppKit.framework in Frameworks */,
+				75F3F0322B334EE900F4EB5F /* QuickLook.framework in Frameworks */,
+				75F3F0312B334EDA00F4EB5F /* CoreFoundation.framework in Frameworks */,
 				C948AF231E0D8CD60059DAAF /* CoreGraphics.framework in Frameworks */,
 				C94843471BD837C10051AE08 /* OpenGL.framework in Frameworks */,
 			);
@@ -1261,6 +1292,7 @@
 			buildRules = (
 			);
 			dependencies = (
+				75F3EFBD2B334CBF00F4EB5F /* PBXTargetDependency */,
 			);
 			name = ElektrikTrickQuickLook;
 			productName = ElektrikTrickQuickLook;
@@ -2289,6 +2321,11 @@
 			name = fltk;
 			targetProxy = 75299C322B322A5B00A9CF91 /* PBXContainerItemProxy */;
 		};
+		75F3EFBD2B334CBF00F4EB5F /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = ALL_BUILD;
+			targetProxy = 75F3EFBC2B334CBF00F4EB5F /* PBXContainerItemProxy */;
+		};
 		C9F530811BB33D6500D198AF /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = C9D5EF611961973A00AEDF1C /* ElektrikTrickQuickLook */;
@@ -2321,7 +2358,7 @@
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = YES;
 				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
-				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LANGUAGE_STANDARD = "c++17";
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
@@ -2351,7 +2388,7 @@
 				ENABLE_TESTABILITY = YES;
 				ENABLE_USER_SCRIPT_SANDBOXING = YES;
 				FRAMEWORK_SEARCH_PATHS = "$(PROJECT_DIR)/ElektrikTrickQuickLook";
-				GCC_C_LANGUAGE_STANDARD = c11;
+				GCC_C_LANGUAGE_STANDARD = c17;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
@@ -2376,9 +2413,9 @@
 					"/opt/homebrew/lib/**",
 					/usr/local/lib,
 				);
-				MACOSX_DEPLOYMENT_TARGET = 10.13;
+				MACOSX_DEPLOYMENT_TARGET = 14.2;
 				ONLY_ACTIVE_ARCH = YES;
-				SDKROOT = macosx;
+				SDKROOT = macosx14.2;
 				SYSTEM_HEADER_SEARCH_PATHS = (
 					/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/,
 					/opt/homebrew/Cellar/jpeg/9e/include,
@@ -2392,7 +2429,7 @@
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = YES;
 				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
-				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LANGUAGE_STANDARD = "c++17";
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
@@ -2423,7 +2460,7 @@
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_USER_SCRIPT_SANDBOXING = YES;
 				FRAMEWORK_SEARCH_PATHS = "$(PROJECT_DIR)/ElektrikTrickQuickLook";
-				GCC_C_LANGUAGE_STANDARD = c11;
+				GCC_C_LANGUAGE_STANDARD = c17;
 				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
@@ -2441,8 +2478,8 @@
 					"/opt/homebrew/lib/**",
 					/usr/local/lib,
 				);
-				MACOSX_DEPLOYMENT_TARGET = 10.13;
-				SDKROOT = macosx;
+				MACOSX_DEPLOYMENT_TARGET = 14.2;
+				SDKROOT = macosx14.2;
 				SYSTEM_HEADER_SEARCH_PATHS = (
 					/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/,
 					/opt/homebrew/Cellar/jpeg/9e/include,
@@ -2472,7 +2509,6 @@
 				HEADER_SEARCH_PATHS = "";
 				INFOPLIST_FILE = "ElektrikTrickQuickLook/ElektrikTrickQuickLook-Info.plist";
 				INSTALL_PATH = /Library/QuickLook;
-				MACOSX_DEPLOYMENT_TARGET = "$(RECOMMENDED_MACOSX_DEPLOYMENT_TARGET)";
 				MARKETING_VERSION = 1.1;
 				PRODUCT_BUNDLE_IDENTIFIER = com.elektriktrick.quicklook;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -2503,7 +2539,6 @@
 				HEADER_SEARCH_PATHS = "";
 				INFOPLIST_FILE = "ElektrikTrickQuickLook/ElektrikTrickQuickLook-Info.plist";
 				INSTALL_PATH = /Library/QuickLook;
-				MACOSX_DEPLOYMENT_TARGET = "$(RECOMMENDED_MACOSX_DEPLOYMENT_TARGET)";
 				MARKETING_VERSION = 1.1;
 				PRODUCT_BUNDLE_IDENTIFIER = com.elektriktrick.quicklook;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -2522,7 +2557,6 @@
 				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "-";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEAD_CODE_STRIPPING = YES;
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				DEVELOPMENT_TEAM = BG856GB4D8;
 				ENABLE_HARDENED_RUNTIME = YES;
@@ -2536,12 +2570,12 @@
 				GCC_WARN_UNUSED_VARIABLE = NO;
 				HEADER_SEARCH_PATHS = "";
 				INFOPLIST_FILE = Elektriktrick/Info.plist;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
 				LIBRARY_SEARCH_PATHS = "";
-				MACOSX_DEPLOYMENT_TARGET = "$(RECOMMENDED_MACOSX_DEPLOYMENT_TARGET)";
 				MTL_ENABLE_DEBUG_INFO = YES;
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
@@ -2562,8 +2596,6 @@
 				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "-";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				COPY_PHASE_STRIP = NO;
-				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = BG856GB4D8;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
@@ -2576,12 +2608,12 @@
 				GCC_WARN_UNUSED_VARIABLE = NO;
 				HEADER_SEARCH_PATHS = "";
 				INFOPLIST_FILE = Elektriktrick/Info.plist;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
 				LIBRARY_SEARCH_PATHS = "";
-				MACOSX_DEPLOYMENT_TARGET = "$(RECOMMENDED_MACOSX_DEPLOYMENT_TARGET)";
 				MTL_ENABLE_DEBUG_INFO = NO;
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
