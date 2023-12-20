@@ -136,7 +136,7 @@ ETOpenGLSurface::ETOpenGLSurface(int w, int h)
         cinfo.in_color_space = JCS_RGB; /* colorspace of input image */
         fltk_jpeg_set_defaults(&cinfo);
         fltk_jpeg_set_quality(&cinfo, 90, TRUE);
-        fltk_jpeg_start_compress(&cinfo, TRUE);
+        jpeg_start_compress(&cinfo, TRUE);
         JSAMPROW row_pointer[1];        /* pointer to a single row */
         int row_stride = w*3;
         unsigned char *dd = pixels;
@@ -144,7 +144,7 @@ ETOpenGLSurface::ETOpenGLSurface(int w, int h)
             row_pointer[0] = dd+(cinfo.next_scanline * row_stride);
             jpeg_write_scanlines(&cinfo, row_pointer, 1);
         }
-        fltk_jpeg_finish_compress(&cinfo);
+        jpeg_finish_compress(&cinfo);
         fltk_jpeg_destroy_compress(&cinfo);
         fclose(outfile);
     }
