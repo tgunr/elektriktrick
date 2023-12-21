@@ -65,7 +65,6 @@
 		C9D5EF971961981900AEDF1C /* ETVector.h in Headers */ = {isa = PBXBuildFile; fileRef = C9D5EF891961981900AEDF1C /* ETVector.h */; };
 		C9D5EF981961981900AEDF1C /* GeneratePreviewForURL.mm in Sources */ = {isa = PBXBuildFile; fileRef = C9D5EF8A1961981900AEDF1C /* GeneratePreviewForURL.mm */; };
 		C9D5EF991961981900AEDF1C /* GenerateThumbnailForURL.mm in Sources */ = {isa = PBXBuildFile; fileRef = C9D5EF8B1961981900AEDF1C /* GenerateThumbnailForURL.mm */; };
-		C9D5EF9B196198E200AEDF1C /* ElektrikTrickQuickLook.qlgenerator in CopyFiles */ = {isa = PBXBuildFile; fileRef = C9D5EF621961973A00AEDF1C /* ElektrikTrickQuickLook.qlgenerator */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
 		C9F530781BB33D4D00D198AF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C9F530771BB33D4D00D198AF /* Assets.xcassets */; };
 		C9F5307B1BB33D4D00D198AF /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = C9F530791BB33D4D00D198AF /* MainMenu.xib */; };
 		C9F530851BB340DD00D198AF /* ElektrikTrickQuickLook.qlgenerator in CopyFiles */ = {isa = PBXBuildFile; fileRef = C9D5EF621961973A00AEDF1C /* ElektrikTrickQuickLook.qlgenerator */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
@@ -82,13 +81,12 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXCopyFilesBuildPhase section */
-		C9D5EF9A196198AC00AEDF1C /* CopyFiles */ = {
+		757396272B346C4700814237 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
-			dstPath = "$(HOME)/Library/QuickLook";
-			dstSubfolderSpec = 0;
+			dstPath = "";
+			dstSubfolderSpec = 16;
 			files = (
-				C9D5EF9B196198E200AEDF1C /* ElektrikTrickQuickLook.qlgenerator in CopyFiles */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -363,10 +361,8 @@
 				C9D5EF5C1961973A00AEDF1C /* Sources */,
 				C9D5EF5D1961973A00AEDF1C /* Frameworks */,
 				C9D5EF5E1961973A00AEDF1C /* Headers */,
-				C9D5EF5F1961973A00AEDF1C /* Resources */,
-				C9D5EF601961973A00AEDF1C /* Rez */,
-				C9D5EF9A196198AC00AEDF1C /* CopyFiles */,
-				757396252B33ACE300814237 /* ShellScript */,
+				757396272B346C4700814237 /* CopyFiles */,
+				75646FB42B34BBB20082FA2E /* ShellScript */,
 			);
 			buildRules = (
 			);
@@ -431,13 +427,6 @@
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		C9D5EF5F1961973A00AEDF1C /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		C9F530671BB33D4C00D198AF /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -450,18 +439,8 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
-/* Begin PBXRezBuildPhase section */
-		C9D5EF601961973A00AEDF1C /* Rez */ = {
-			isa = PBXRezBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-/* End PBXRezBuildPhase section */
-
 /* Begin PBXShellScriptBuildPhase section */
-		757396252B33ACE300814237 /* ShellScript */ = {
+		75646FB42B34BBB20082FA2E /* ShellScript */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -476,7 +455,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "qlmanage -r cache\nqlmanage -r\n# Type a script or drag a script file from your workspace to insert its path\n";
+			shellScript = "# Type a script or drag a script file from your workspace to insert its path.\necho \"Hello World\"\n";
 		};
 /* End PBXShellScriptBuildPhase section */
 
@@ -724,7 +703,7 @@
 				HEADER_SEARCH_PATHS = "";
 				INFOPLIST_FILE = "ElektrikTrickQuickLook/ElektrikTrickQuickLook-Info.plist";
 				INSTALL_PATH = /Library/QuickLook;
-				MARKETING_VERSION = 1.2;
+				MARKETING_VERSION = 1.2.1;
 				PRODUCT_BUNDLE_IDENTIFIER = com.elektriktrick.quicklook;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -754,7 +733,7 @@
 				HEADER_SEARCH_PATHS = "";
 				INFOPLIST_FILE = "ElektrikTrickQuickLook/ElektrikTrickQuickLook-Info.plist";
 				INSTALL_PATH = /Library/QuickLook;
-				MARKETING_VERSION = 1.2;
+				MARKETING_VERSION = 1.2.1;
 				PRODUCT_BUNDLE_IDENTIFIER = com.elektriktrick.quicklook;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
