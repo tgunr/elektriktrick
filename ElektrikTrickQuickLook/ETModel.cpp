@@ -39,6 +39,12 @@ ETModel *ETModel::ModelForFileType(const char *filename)
     // get the status of the given file. We need the file size.
     struct stat st;
     int ret = stat(filename, &st);
+    // if st is directory, we can't read it
+    if (ret==0 && S_ISDIR(st.st_mode)) {
+        // ERROR, can't read directory
+        fprintf(stderr, "ElektriktrickQL: can't read directory %s\n", filename);
+        return 0;
+    }
     if (ret==-1) {
         // ERROR, can't get file status
         fprintf(stderr, "ElektriktrickQL: no file status for %s\n", filename);
