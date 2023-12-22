@@ -259,6 +259,7 @@ const char *ETFileBrowser::full_path()
     int selected = value();
     if (selected) {
         strcpy(buf, pDirectory);
+        strcat(buf, "/");
         strcat(buf, text(selected));
         return buf;
     } else {
