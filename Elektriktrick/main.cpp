@@ -128,13 +128,6 @@ void draw_cb()
     }
 }
 
-
-void file_select_cb(const char *filename)
-{
-    loadFile(gFileBrowser->full_path());
-}
-
-
 void directory_select_cb(const char *directory)
 {
     chdir(gBasePath);
@@ -142,6 +135,23 @@ void directory_select_cb(const char *directory)
     gFileBrowser->load(gBasePath);
 }
 
+void file_select_cb(const char *filename)
+{
+    const char *selected = gFileBrowser->full_path();
+    struct stat st;
+    int ret = stat(selected, &st);
+    // if st is directory, we change gBasePath and reload the file browser
+    if (ret==0 && S_ISDIR(st.st_mode)) {
+        // Change gBasePath
+//        gBasePath = filename;
+        directory_select_cb(filename);
+        // Reload the file browser
+//        gFileBrowser->load(gBasePath.c_str());
+    } else {
+        // Load the file
+        loadFile(gFileBrowser->full_path());
+    }
+}
 
 void directory_up_cb(const char *directory)
 {
