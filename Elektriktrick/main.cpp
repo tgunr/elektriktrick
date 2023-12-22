@@ -218,7 +218,7 @@ int main (int argc, char **argv)
     gFileBrowser->type(FL_HOLD_BROWSER);
     gFileBrowser->filetype(Fl_File_Browser::FILES);
     gFileBrowser->iconsize(20);
-    gFileBrowser->filter("[^.]*{.stl|.dxf|.gcode|.bfb}");
+    gFileBrowser->filter("[^.]*{.stl|.dxf|.gcode|.bfb|,gc|.ngc}");
     gFileBrowser->directory_filter("[^.]*");
     gFileBrowser->file_select_callback(file_select_cb);
     gFileBrowser->directory_select_callback(directory_select_cb);
