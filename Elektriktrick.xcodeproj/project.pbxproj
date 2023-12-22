@@ -71,6 +71,783 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
+		7564702C2B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = BF7A8673BE47412F92CC7D07;
+			remoteInfo = CubeView;
+		};
+		7564702E2B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 598F82140A5347D1B1DDACD4;
+			remoteInfo = adjuster;
+		};
+		756470302B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 54783E033761424DB90ACA7F;
+			remoteInfo = animated;
+		};
+		756470322B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 5FF7D6F150364272A4D9F37D;
+			remoteInfo = arc;
+		};
+		756470342B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 58C54D65D82B4AA28479984F;
+			remoteInfo = ask;
+		};
+		756470362B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = AE3989B4F35E47E896A633F3;
+			remoteInfo = bitmap;
+		};
+		756470382B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 22FB2CD2C6D34017AB6DA915;
+			remoteInfo = blocks;
+		};
+		7564703A2B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 85997FB618AA47CA9259D915;
+			remoteInfo = boxtype;
+		};
+		7564703C2B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = BF75C76F94384413B5CE0041;
+			remoteInfo = browser;
+		};
+		7564703E2B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 5D2B4B86D7754FFCAFB7D902;
+			remoteInfo = button;
+		};
+		756470402B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = FE19590F3D2C4B4F859A8CCC;
+			remoteInfo = buttons;
+		};
+		756470422B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = E4CF128D7EA343AFAD671ABA;
+			remoteInfo = cairo_test;
+		};
+		756470442B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 63FE85762F41462DB4136EDA;
+			remoteInfo = checkers;
+		};
+		756470462B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = EB8D129B41A54034A68B3222;
+			remoteInfo = clipboard;
+		};
+		756470482B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 38E9D5CB716E468A8E8804DC;
+			remoteInfo = clock;
+		};
+		7564704A2B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = A4AA6F8D6E9F45499F1A0A5A;
+			remoteInfo = colbrowser;
+		};
+		7564704C2B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 73836CE540ED4D9D967CB45B;
+			remoteInfo = color_chooser;
+		};
+		7564704E2B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 9D9F495651804778B8EB3D35;
+			remoteInfo = contrast;
+		};
+		756470502B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 1FB71471B2F04B91A2602C4E;
+			remoteInfo = coordinates;
+		};
+		756470522B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 2BE356F4694148BA9E177F7D;
+			remoteInfo = cube;
+		};
+		756470542B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 8179E2E70AE0459FBD1D57CA;
+			remoteInfo = cursor;
+		};
+		756470562B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 407B2C1260264BAB9C2D6BE3;
+			remoteInfo = curve;
+		};
+		756470582B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 965B9E8957AD4E9CBA180727;
+			remoteInfo = demo;
+		};
+		7564705A2B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = A6EDF908C8304F5681EA901B;
+			remoteInfo = device;
+		};
+		7564705C2B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = D9BCF1FA52DD463489F714F3;
+			remoteInfo = doublebuffer;
+		};
+		7564705E2B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = D321D398B5A94F40BF376AC9;
+			remoteInfo = editor;
+		};
+		756470602B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 2D873DBDB7EE43B990C8C8DB;
+			remoteInfo = fast_slow;
+		};
+		756470622B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 9181EFAD067D4D23AD75EFD9;
+			remoteInfo = file_chooser;
+		};
+		756470642B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 6251DBA61F1846459955E653;
+			remoteInfo = flex_demo;
+		};
+		756470662B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 0A8E66B9BDA6448A82EE80A0;
+			remoteInfo = flex_login;
+		};
+		756470682B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = C61C6757781E4952B5AE9BEA;
+			remoteInfo = fltk;
+		};
+		7564706A2B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 0E6316B787F7483C8429721D;
+			remoteInfo = "fltk-options";
+		};
+		7564706C2B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 680EB49FD7504B0FBDE9FFB7;
+			remoteInfo = "fltk-versions";
+		};
+		7564706E2B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = A0CB13B0ECE64F9BA47F461A;
+			remoteInfo = fltk_forms;
+		};
+		756470702B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = C4D7B2A353CC4C0C8B490F04;
+			remoteInfo = fltk_gl;
+		};
+		756470722B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 7FDE052A26FF44A892B04CED;
+			remoteInfo = fltk_images;
+		};
+		756470742B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = A097DC59CFC142238157E152;
+			remoteInfo = fltk_jpeg;
+		};
+		756470762B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 72AC1CFED1B64FBF8C156DBC;
+			remoteInfo = fltk_png;
+		};
+		756470782B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 8A46CF04A7B84141ADD835FF;
+			remoteInfo = fltk_z;
+		};
+		7564707A2B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = DBF8D68100E1496BB48E203B;
+			remoteInfo = fluid;
+		};
+		7564707C2B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = A0DCC2A7A9F0409799EEF215;
+			remoteInfo = "fluid-lib";
+		};
+		7564707E2B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 2CF9125202E94E929AF953B3;
+			remoteInfo = fonts;
+		};
+		756470802B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 34AD33AC49F0492DB8226E99;
+			remoteInfo = forms;
+		};
+		756470822B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = C314022E5CBA4E9ABD072CDE;
+			remoteInfo = fractals;
+		};
+		756470842B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 1ED110D9484747679776B241;
+			remoteInfo = fullscreen;
+		};
+		756470862B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 4D6C57B4F7294BFCBDA68330;
+			remoteInfo = gl_overlay;
+		};
+		756470882B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 01AC9E12A59749D285B18975;
+			remoteInfo = glpuzzle;
+		};
+		7564708A2B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 324E08C3B5A54A0E9837259E;
+			remoteInfo = glut_test;
+		};
+		7564708C2B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 619807E1654E4ABABAFEA74A;
+			remoteInfo = grid_alignment;
+		};
+		7564708E2B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 37B911A263A84AE58F6F2106;
+			remoteInfo = grid_buttons;
+		};
+		756470902B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = DCF18920DCE440DF9D397005;
+			remoteInfo = grid_dialog;
+		};
+		756470922B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = DCE5A78C3E394847A65867E3;
+			remoteInfo = grid_login;
+		};
+		756470942B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = D86D4A93A2EF4E209EF7581A;
+			remoteInfo = handle_events;
+		};
+		756470962B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 1C35F17CC8D54F3FAFFCE9AA;
+			remoteInfo = hello;
+		};
+		756470982B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 0D53015D2C63442DAD7418E6;
+			remoteInfo = help_dialog;
+		};
+		7564709A2B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 0F4C94EDDD3C45319554BF3E;
+			remoteInfo = icon;
+		};
+		7564709C2B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = A1AADCADDEA24E72A7FBEFC1;
+			remoteInfo = iconize;
+		};
+		7564709E2B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 76A5E902D5FC43C6B14A4AB5;
+			remoteInfo = image;
+		};
+		756470A02B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 4E5D094E8DEA4D6C89A4B362;
+			remoteInfo = inactive;
+		};
+		756470A22B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = BA7AE07DFC0F411DBC9731C7;
+			remoteInfo = input;
+		};
+		756470A42B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 5182836DD8DF49849E4D22E2;
+			remoteInfo = input_choice;
+		};
+		756470A62B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 1574EFC5430C4283BBF0C5BF;
+			remoteInfo = keyboard;
+		};
+		756470A82B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 7009B23898EE4E36AE55D316;
+			remoteInfo = label;
+		};
+		756470AA2B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 22CC01A04D114A8F96E70DDD;
+			remoteInfo = line_style;
+		};
+		756470AC2B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 1287F72C0B3546EC9668E515;
+			remoteInfo = list_visuals;
+		};
+		756470AE2B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 33384922A8A24C7A9FA43C52;
+			remoteInfo = mandelbrot;
+		};
+		756470B02B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 8D3CB8C0718546849E02A895;
+			remoteInfo = menubar;
+		};
+		756470B22B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 8014953AE6C84A46A9570B0D;
+			remoteInfo = message;
+		};
+		756470B42B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = C6AFF686C82B45F385391926;
+			remoteInfo = minimum;
+		};
+		756470B62B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 14495715CC03478A968A1E94;
+			remoteInfo = "native-filechooser";
+		};
+		756470B82B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 6F4987B07F4F4577B2CDD459;
+			remoteInfo = navigation;
+		};
+		756470BA2B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 8BED382F24F8436690283DD9;
+			remoteInfo = offscreen;
+		};
+		756470BC2B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 2B8BC40A0C9D44EAB54B5122;
+			remoteInfo = output;
+		};
+		756470BE2B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = F1A5DF8758544809861A19BD;
+			remoteInfo = overlay;
+		};
+		756470C02B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 7EB248E2E4F8444E859C506E;
+			remoteInfo = pack;
+		};
+		756470C22B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 945E4C21617A4CEEB336F790;
+			remoteInfo = pixmap;
+		};
+		756470C42B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 82C224350E8B4FDF8AE192AA;
+			remoteInfo = pixmap_browser;
+		};
+		756470C62B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 454682F6E97A4D22B4A0A39F;
+			remoteInfo = preferences;
+		};
+		756470C82B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 55DDED413EAE4E9182CAD370;
+			remoteInfo = radio;
+		};
+		756470CA2B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = C5CA270E932A4B4DAF69AB30;
+			remoteInfo = resize;
+		};
+		756470CC2B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 39B506BCE6014693ACE3F414;
+			remoteInfo = "resize-example1";
+		};
+		756470CE2B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 0677D5D0FEAC4DD6B0D51B39;
+			remoteInfo = "resize-example2";
+		};
+		756470D02B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 03DD14B270D64F52B3E02762;
+			remoteInfo = "resize-example3a";
+		};
+		756470D22B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = E0E317F91E9C49709A5FABC0;
+			remoteInfo = "resize-example3b";
+		};
+		756470D42B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = C971317179994EAC82607E10;
+			remoteInfo = "resize-example3c";
+		};
+		756470D62B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 18E3A1B33F1C4DD4B4F4665B;
+			remoteInfo = "resize-example4a";
+		};
+		756470D82B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 9BA1E268C7204E74A9AD732E;
+			remoteInfo = "resize-example4b";
+		};
+		756470DA2B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 136B5DE5706D4D0FAB4A15F2;
+			remoteInfo = "resize-example5a";
+		};
+		756470DC2B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = ED588848780E49F7A240F7E0;
+			remoteInfo = "resize-example5b";
+		};
+		756470DE2B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = D8E28DE8CE4C41E9AAFF1203;
+			remoteInfo = "resize-example5c";
+		};
+		756470E02B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = A525E401E81D4A78B8E9CD32;
+			remoteInfo = resizebox;
+		};
+		756470E22B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 142CBB7B5E6946879264EF0E;
+			remoteInfo = rotated_text;
+		};
+		756470E42B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 555BB01523954625B3A14AE2;
+			remoteInfo = scroll;
+		};
+		756470E62B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = B4238D4527E745FDB73CE8A4;
+			remoteInfo = shape;
+		};
+		756470E82B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = B4D7607D27374A83A53F7465;
+			remoteInfo = subwindow;
+		};
+		756470EA2B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 837B6E2A9CC44F2CB9EE13FB;
+			remoteInfo = sudoku;
+		};
+		756470EC2B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 806E00B6FF1848F3BB3F7615;
+			remoteInfo = symbols;
+		};
+		756470EE2B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = D917650574C34F338D80F831;
+			remoteInfo = table;
+		};
+		756470F02B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = A44E58106F4A4C898F62B41A;
+			remoteInfo = tabs;
+		};
+		756470F22B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = A962C45A1AEF463E97BD240F;
+			remoteInfo = terminal;
+		};
+		756470F42B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = DB597CB7415945F685351CF3;
+			remoteInfo = threads;
+		};
+		756470F62B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = B6D1441526334ADA955EC03F;
+			remoteInfo = tile;
+		};
+		756470F82B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = FBCABFD0182F49A0A2062C2F;
+			remoteInfo = tiled_image;
+		};
+		756470FA2B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = A60656F6766E4922BD12D160;
+			remoteInfo = tree;
+		};
+		756470FC2B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 304CEE6582934522AD9A6B07;
+			remoteInfo = twowin;
+		};
+		756470FE2B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 06547E013C6444D6B5E2A89C;
+			remoteInfo = unittests;
+		};
+		756471002B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 3ECFDD580E494207946F3B15;
+			remoteInfo = utf8;
+		};
+		756471022B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = EAD61F2C492843AAAF5648CB;
+			remoteInfo = valuators;
+		};
+		756471042B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 73FADD7EC44A4FA19D9F7678;
+			remoteInfo = windowfocus;
+		};
+		756471062B359ED10082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 45B754328D8B44C889AA1D0F;
+			remoteInfo = wizard;
+		};
+		756471082B359EFD0082FA2E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+			proxyType = 1;
+			remoteGlobalIDString = 8B6E499DF39343D7BDCAC645;
+			remoteInfo = ALL_BUILD;
+		};
 		C9F530801BB33D6500D198AF /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = C9D5EF351961961800AEDF1C /* Project object */;
@@ -108,6 +885,7 @@
 		7529990D2B31E1F500A9CF91 /* QuickLook.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuickLook.framework; path = System/Library/Frameworks/QuickLook.framework; sourceTree = SDKROOT; };
 		7529990F2B31E20D00A9CF91 /* CoreServices.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreServices.framework; path = System/Library/Frameworks/CoreServices.framework; sourceTree = SDKROOT; };
 		752999112B31E21A00A9CF91 /* ApplicationServices.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ApplicationServices.framework; path = System/Library/Frameworks/ApplicationServices.framework; sourceTree = SDKROOT; };
+		75646FB52B359ED10082FA2E /* FLTK.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = FLTK.xcodeproj; path = fltk/build/Xcode/FLTK.xcodeproj; sourceTree = "<group>"; };
 		C94843421BD836790051AE08 /* ETGMesh.cpp */ = {isa = PBXFileReference; fileEncoding = 4; indentWidth = 4; lastKnownFileType = sourcecode.cpp.cpp; name = ETGMesh.cpp; path = Geometry/ETGMesh.cpp; sourceTree = "<group>"; };
 		C94843431BD836790051AE08 /* ETGMesh.h */ = {isa = PBXFileReference; fileEncoding = 4; indentWidth = 4; lastKnownFileType = sourcecode.c.h; name = ETGMesh.h; path = Geometry/ETGMesh.h; sourceTree = "<group>"; };
 		C94843461BD837C10051AE08 /* OpenGL.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGL.framework; path = System/Library/Frameworks/OpenGL.framework; sourceTree = SDKROOT; };
@@ -193,6 +971,123 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		75646FB62B359ED10082FA2E /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				7564702D2B359ED10082FA2E /* CubeView */,
+				7564702F2B359ED10082FA2E /* adjuster */,
+				756470312B359ED10082FA2E /* animated */,
+				756470332B359ED10082FA2E /* arc */,
+				756470352B359ED10082FA2E /* ask */,
+				756470372B359ED10082FA2E /* bitmap */,
+				756470392B359ED10082FA2E /* blocks */,
+				7564703B2B359ED10082FA2E /* boxtype */,
+				7564703D2B359ED10082FA2E /* browser */,
+				7564703F2B359ED10082FA2E /* button */,
+				756470412B359ED10082FA2E /* buttons */,
+				756470432B359ED10082FA2E /* cairo_test */,
+				756470452B359ED10082FA2E /* checkers */,
+				756470472B359ED10082FA2E /* clipboard */,
+				756470492B359ED10082FA2E /* clock */,
+				7564704B2B359ED10082FA2E /* colbrowser */,
+				7564704D2B359ED10082FA2E /* color_chooser */,
+				7564704F2B359ED10082FA2E /* contrast */,
+				756470512B359ED10082FA2E /* coordinates */,
+				756470532B359ED10082FA2E /* cube */,
+				756470552B359ED10082FA2E /* cursor */,
+				756470572B359ED10082FA2E /* curve */,
+				756470592B359ED10082FA2E /* demo */,
+				7564705B2B359ED10082FA2E /* device */,
+				7564705D2B359ED10082FA2E /* doublebuffer */,
+				7564705F2B359ED10082FA2E /* editor */,
+				756470612B359ED10082FA2E /* fast_slow */,
+				756470632B359ED10082FA2E /* file_chooser */,
+				756470652B359ED10082FA2E /* flex_demo */,
+				756470672B359ED10082FA2E /* flex_login */,
+				756470692B359ED10082FA2E /* libfltk.a */,
+				7564706B2B359ED10082FA2E /* fltk-options */,
+				7564706D2B359ED10082FA2E /* fltk-versions */,
+				7564706F2B359ED10082FA2E /* libfltk_forms.a */,
+				756470712B359ED10082FA2E /* libfltk_gl.a */,
+				756470732B359ED10082FA2E /* libfltk_images.a */,
+				756470752B359ED10082FA2E /* libfltk_jpeg.a */,
+				756470772B359ED10082FA2E /* libfltk_png.a */,
+				756470792B359ED10082FA2E /* libfltk_z.a */,
+				7564707B2B359ED10082FA2E /* fluid */,
+				7564707D2B359ED10082FA2E /* libfluid-lib.a */,
+				7564707F2B359ED10082FA2E /* fonts */,
+				756470812B359ED10082FA2E /* forms */,
+				756470832B359ED10082FA2E /* fractals */,
+				756470852B359ED10082FA2E /* fullscreen */,
+				756470872B359ED10082FA2E /* gl_overlay */,
+				756470892B359ED10082FA2E /* glpuzzle */,
+				7564708B2B359ED10082FA2E /* glut_test */,
+				7564708D2B359ED10082FA2E /* grid_alignment */,
+				7564708F2B359ED10082FA2E /* grid_buttons */,
+				756470912B359ED10082FA2E /* grid_dialog */,
+				756470932B359ED10082FA2E /* grid_login */,
+				756470952B359ED10082FA2E /* handle_events */,
+				756470972B359ED10082FA2E /* hello */,
+				756470992B359ED10082FA2E /* help_dialog */,
+				7564709B2B359ED10082FA2E /* icon */,
+				7564709D2B359ED10082FA2E /* iconize */,
+				7564709F2B359ED10082FA2E /* image */,
+				756470A12B359ED10082FA2E /* inactive */,
+				756470A32B359ED10082FA2E /* input */,
+				756470A52B359ED10082FA2E /* input_choice */,
+				756470A72B359ED10082FA2E /* keyboard */,
+				756470A92B359ED10082FA2E /* label */,
+				756470AB2B359ED10082FA2E /* line_style */,
+				756470AD2B359ED10082FA2E /* list_visuals */,
+				756470AF2B359ED10082FA2E /* mandelbrot */,
+				756470B12B359ED10082FA2E /* menubar */,
+				756470B32B359ED10082FA2E /* message */,
+				756470B52B359ED10082FA2E /* minimum */,
+				756470B72B359ED10082FA2E /* native-filechooser */,
+				756470B92B359ED10082FA2E /* navigation */,
+				756470BB2B359ED10082FA2E /* offscreen */,
+				756470BD2B359ED10082FA2E /* output */,
+				756470BF2B359ED10082FA2E /* overlay */,
+				756470C12B359ED10082FA2E /* pack */,
+				756470C32B359ED10082FA2E /* pixmap */,
+				756470C52B359ED10082FA2E /* pixmap_browser */,
+				756470C72B359ED10082FA2E /* preferences */,
+				756470C92B359ED10082FA2E /* radio */,
+				756470CB2B359ED10082FA2E /* resize */,
+				756470CD2B359ED10082FA2E /* resize-example1 */,
+				756470CF2B359ED10082FA2E /* resize-example2 */,
+				756470D12B359ED10082FA2E /* resize-example3a */,
+				756470D32B359ED10082FA2E /* resize-example3b */,
+				756470D52B359ED10082FA2E /* resize-example3c */,
+				756470D72B359ED10082FA2E /* resize-example4a */,
+				756470D92B359ED10082FA2E /* resize-example4b */,
+				756470DB2B359ED10082FA2E /* resize-example5a */,
+				756470DD2B359ED10082FA2E /* resize-example5b */,
+				756470DF2B359ED10082FA2E /* resize-example5c */,
+				756470E12B359ED10082FA2E /* resizebox */,
+				756470E32B359ED10082FA2E /* rotated_text */,
+				756470E52B359ED10082FA2E /* scroll */,
+				756470E72B359ED10082FA2E /* shape */,
+				756470E92B359ED10082FA2E /* subwindow */,
+				756470EB2B359ED10082FA2E /* sudoku */,
+				756470ED2B359ED10082FA2E /* symbols */,
+				756470EF2B359ED10082FA2E /* table */,
+				756470F12B359ED10082FA2E /* tabs */,
+				756470F32B359ED10082FA2E /* terminal */,
+				756470F52B359ED10082FA2E /* threads */,
+				756470F72B359ED10082FA2E /* tile */,
+				756470F92B359ED10082FA2E /* tiled_image */,
+				756470FB2B359ED10082FA2E /* tree */,
+				756470FD2B359ED10082FA2E /* twowin */,
+				756470FF2B359ED10082FA2E /* unittests */,
+				756471012B359ED10082FA2E /* utf8 */,
+				756471032B359ED10082FA2E /* valuators */,
+				756471052B359ED10082FA2E /* windowfocus */,
+				756471072B359ED10082FA2E /* wizard */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
 		C94843451BD836810051AE08 /* Geometry */ = {
 			isa = PBXGroup;
 			children = (
@@ -233,6 +1128,7 @@
 		C9D5EF341961961800AEDF1C = {
 			isa = PBXGroup;
 			children = (
+				75646FB52B359ED10082FA2E /* FLTK.xcodeproj */,
 				C9D5EF671961973A00AEDF1C /* ElektrikTrickQuickLook */,
 				C9F5306A1BB33D4C00D198AF /* Elektriktrick */,
 				C9D5EF411961961800AEDF1C /* Frameworks */,
@@ -367,6 +1263,7 @@
 			buildRules = (
 			);
 			dependencies = (
+				756471092B359EFD0082FA2E /* PBXTargetDependency */,
 			);
 			name = ElektrikTrickQuickLook;
 			productName = ElektrikTrickQuickLook;
@@ -418,6 +1315,12 @@
 			mainGroup = C9D5EF341961961800AEDF1C;
 			productRefGroup = C9D5EF401961961800AEDF1C /* Products */;
 			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = 75646FB62B359ED10082FA2E /* Products */;
+					ProjectRef = 75646FB52B359ED10082FA2E /* FLTK.xcodeproj */;
+				},
+			);
 			projectRoot = "";
 			targets = (
 				C9D5EF611961973A00AEDF1C /* ElektrikTrickQuickLook */,
@@ -425,6 +1328,881 @@
 			);
 		};
 /* End PBXProject section */
+
+/* Begin PBXReferenceProxy section */
+		7564702D2B359ED10082FA2E /* CubeView */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = CubeView;
+			path = CubeView.app;
+			remoteRef = 7564702C2B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		7564702F2B359ED10082FA2E /* adjuster */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = adjuster;
+			path = adjuster.app;
+			remoteRef = 7564702E2B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470312B359ED10082FA2E /* animated */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = animated;
+			path = animated.app;
+			remoteRef = 756470302B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470332B359ED10082FA2E /* arc */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = arc;
+			path = arc.app;
+			remoteRef = 756470322B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470352B359ED10082FA2E /* ask */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = ask;
+			path = ask.app;
+			remoteRef = 756470342B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470372B359ED10082FA2E /* bitmap */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = bitmap;
+			path = bitmap.app;
+			remoteRef = 756470362B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470392B359ED10082FA2E /* blocks */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = blocks;
+			path = blocks.app;
+			remoteRef = 756470382B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		7564703B2B359ED10082FA2E /* boxtype */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = boxtype;
+			path = boxtype.app;
+			remoteRef = 7564703A2B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		7564703D2B359ED10082FA2E /* browser */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = browser;
+			path = browser.app;
+			remoteRef = 7564703C2B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		7564703F2B359ED10082FA2E /* button */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = button;
+			path = button.app;
+			remoteRef = 7564703E2B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470412B359ED10082FA2E /* buttons */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = buttons;
+			path = buttons.app;
+			remoteRef = 756470402B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470432B359ED10082FA2E /* cairo_test */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = cairo_test;
+			path = cairo_test.app;
+			remoteRef = 756470422B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470452B359ED10082FA2E /* checkers */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = checkers;
+			path = checkers.app;
+			remoteRef = 756470442B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470472B359ED10082FA2E /* clipboard */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = clipboard;
+			path = clipboard.app;
+			remoteRef = 756470462B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470492B359ED10082FA2E /* clock */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = clock;
+			path = clock.app;
+			remoteRef = 756470482B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		7564704B2B359ED10082FA2E /* colbrowser */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = colbrowser;
+			path = colbrowser.app;
+			remoteRef = 7564704A2B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		7564704D2B359ED10082FA2E /* color_chooser */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = color_chooser;
+			path = color_chooser.app;
+			remoteRef = 7564704C2B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		7564704F2B359ED10082FA2E /* contrast */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = contrast;
+			path = contrast.app;
+			remoteRef = 7564704E2B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470512B359ED10082FA2E /* coordinates */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = coordinates;
+			path = coordinates.app;
+			remoteRef = 756470502B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470532B359ED10082FA2E /* cube */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = cube;
+			path = cube.app;
+			remoteRef = 756470522B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470552B359ED10082FA2E /* cursor */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = cursor;
+			path = cursor.app;
+			remoteRef = 756470542B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470572B359ED10082FA2E /* curve */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = curve;
+			path = curve.app;
+			remoteRef = 756470562B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470592B359ED10082FA2E /* demo */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = demo;
+			path = demo.app;
+			remoteRef = 756470582B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		7564705B2B359ED10082FA2E /* device */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = device;
+			path = device.app;
+			remoteRef = 7564705A2B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		7564705D2B359ED10082FA2E /* doublebuffer */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = doublebuffer;
+			path = doublebuffer.app;
+			remoteRef = 7564705C2B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		7564705F2B359ED10082FA2E /* editor */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = editor;
+			path = editor.app;
+			remoteRef = 7564705E2B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470612B359ED10082FA2E /* fast_slow */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = fast_slow;
+			path = fast_slow.app;
+			remoteRef = 756470602B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470632B359ED10082FA2E /* file_chooser */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = file_chooser;
+			path = file_chooser.app;
+			remoteRef = 756470622B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470652B359ED10082FA2E /* flex_demo */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = flex_demo;
+			path = flex_demo.app;
+			remoteRef = 756470642B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470672B359ED10082FA2E /* flex_login */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = flex_login;
+			path = flex_login.app;
+			remoteRef = 756470662B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470692B359ED10082FA2E /* libfltk.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = libfltk.a;
+			remoteRef = 756470682B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		7564706B2B359ED10082FA2E /* fltk-options */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = "fltk-options";
+			path = "fltk-options.app";
+			remoteRef = 7564706A2B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		7564706D2B359ED10082FA2E /* fltk-versions */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = "fltk-versions";
+			path = "fltk-versions.app";
+			remoteRef = 7564706C2B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		7564706F2B359ED10082FA2E /* libfltk_forms.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = libfltk_forms.a;
+			remoteRef = 7564706E2B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470712B359ED10082FA2E /* libfltk_gl.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = libfltk_gl.a;
+			remoteRef = 756470702B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470732B359ED10082FA2E /* libfltk_images.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = libfltk_images.a;
+			remoteRef = 756470722B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470752B359ED10082FA2E /* libfltk_jpeg.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = libfltk_jpeg.a;
+			remoteRef = 756470742B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470772B359ED10082FA2E /* libfltk_png.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = libfltk_png.a;
+			remoteRef = 756470762B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470792B359ED10082FA2E /* libfltk_z.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = libfltk_z.a;
+			remoteRef = 756470782B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		7564707B2B359ED10082FA2E /* fluid */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = fluid;
+			path = fluid.app;
+			remoteRef = 7564707A2B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		7564707D2B359ED10082FA2E /* libfluid-lib.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = "libfluid-lib.a";
+			remoteRef = 7564707C2B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		7564707F2B359ED10082FA2E /* fonts */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = fonts;
+			path = fonts.app;
+			remoteRef = 7564707E2B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470812B359ED10082FA2E /* forms */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = forms;
+			path = forms.app;
+			remoteRef = 756470802B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470832B359ED10082FA2E /* fractals */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = fractals;
+			path = fractals.app;
+			remoteRef = 756470822B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470852B359ED10082FA2E /* fullscreen */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = fullscreen;
+			path = fullscreen.app;
+			remoteRef = 756470842B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470872B359ED10082FA2E /* gl_overlay */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = gl_overlay;
+			path = gl_overlay.app;
+			remoteRef = 756470862B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470892B359ED10082FA2E /* glpuzzle */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = glpuzzle;
+			path = glpuzzle.app;
+			remoteRef = 756470882B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		7564708B2B359ED10082FA2E /* glut_test */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = glut_test;
+			path = glut_test.app;
+			remoteRef = 7564708A2B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		7564708D2B359ED10082FA2E /* grid_alignment */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = grid_alignment;
+			path = grid_alignment.app;
+			remoteRef = 7564708C2B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		7564708F2B359ED10082FA2E /* grid_buttons */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = grid_buttons;
+			path = grid_buttons.app;
+			remoteRef = 7564708E2B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470912B359ED10082FA2E /* grid_dialog */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = grid_dialog;
+			path = grid_dialog.app;
+			remoteRef = 756470902B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470932B359ED10082FA2E /* grid_login */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = grid_login;
+			path = grid_login.app;
+			remoteRef = 756470922B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470952B359ED10082FA2E /* handle_events */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = handle_events;
+			path = handle_events.app;
+			remoteRef = 756470942B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470972B359ED10082FA2E /* hello */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = hello;
+			path = hello.app;
+			remoteRef = 756470962B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470992B359ED10082FA2E /* help_dialog */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = help_dialog;
+			path = help_dialog.app;
+			remoteRef = 756470982B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		7564709B2B359ED10082FA2E /* icon */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = icon;
+			path = icon.app;
+			remoteRef = 7564709A2B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		7564709D2B359ED10082FA2E /* iconize */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = iconize;
+			path = iconize.app;
+			remoteRef = 7564709C2B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		7564709F2B359ED10082FA2E /* image */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = image;
+			path = image.app;
+			remoteRef = 7564709E2B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470A12B359ED10082FA2E /* inactive */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = inactive;
+			path = inactive.app;
+			remoteRef = 756470A02B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470A32B359ED10082FA2E /* input */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = input;
+			path = input.app;
+			remoteRef = 756470A22B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470A52B359ED10082FA2E /* input_choice */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = input_choice;
+			path = input_choice.app;
+			remoteRef = 756470A42B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470A72B359ED10082FA2E /* keyboard */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = keyboard;
+			path = keyboard.app;
+			remoteRef = 756470A62B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470A92B359ED10082FA2E /* label */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = label;
+			path = label.app;
+			remoteRef = 756470A82B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470AB2B359ED10082FA2E /* line_style */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = line_style;
+			path = line_style.app;
+			remoteRef = 756470AA2B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470AD2B359ED10082FA2E /* list_visuals */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = list_visuals;
+			path = list_visuals.app;
+			remoteRef = 756470AC2B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470AF2B359ED10082FA2E /* mandelbrot */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = mandelbrot;
+			path = mandelbrot.app;
+			remoteRef = 756470AE2B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470B12B359ED10082FA2E /* menubar */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = menubar;
+			path = menubar.app;
+			remoteRef = 756470B02B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470B32B359ED10082FA2E /* message */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = message;
+			path = message.app;
+			remoteRef = 756470B22B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470B52B359ED10082FA2E /* minimum */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = minimum;
+			path = minimum.app;
+			remoteRef = 756470B42B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470B72B359ED10082FA2E /* native-filechooser */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = "native-filechooser";
+			path = "native-filechooser.app";
+			remoteRef = 756470B62B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470B92B359ED10082FA2E /* navigation */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = navigation;
+			path = navigation.app;
+			remoteRef = 756470B82B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470BB2B359ED10082FA2E /* offscreen */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = offscreen;
+			path = offscreen.app;
+			remoteRef = 756470BA2B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470BD2B359ED10082FA2E /* output */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = output;
+			path = output.app;
+			remoteRef = 756470BC2B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470BF2B359ED10082FA2E /* overlay */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = overlay;
+			path = overlay.app;
+			remoteRef = 756470BE2B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470C12B359ED10082FA2E /* pack */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = pack;
+			path = pack.app;
+			remoteRef = 756470C02B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470C32B359ED10082FA2E /* pixmap */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = pixmap;
+			path = pixmap.app;
+			remoteRef = 756470C22B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470C52B359ED10082FA2E /* pixmap_browser */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = pixmap_browser;
+			path = pixmap_browser.app;
+			remoteRef = 756470C42B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470C72B359ED10082FA2E /* preferences */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = preferences;
+			path = preferences.app;
+			remoteRef = 756470C62B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470C92B359ED10082FA2E /* radio */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = radio;
+			path = radio.app;
+			remoteRef = 756470C82B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470CB2B359ED10082FA2E /* resize */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = resize;
+			path = resize.app;
+			remoteRef = 756470CA2B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470CD2B359ED10082FA2E /* resize-example1 */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = "resize-example1";
+			path = "resize-example1.app";
+			remoteRef = 756470CC2B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470CF2B359ED10082FA2E /* resize-example2 */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = "resize-example2";
+			path = "resize-example2.app";
+			remoteRef = 756470CE2B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470D12B359ED10082FA2E /* resize-example3a */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = "resize-example3a";
+			path = "resize-example3a.app";
+			remoteRef = 756470D02B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470D32B359ED10082FA2E /* resize-example3b */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = "resize-example3b";
+			path = "resize-example3b.app";
+			remoteRef = 756470D22B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470D52B359ED10082FA2E /* resize-example3c */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = "resize-example3c";
+			path = "resize-example3c.app";
+			remoteRef = 756470D42B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470D72B359ED10082FA2E /* resize-example4a */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = "resize-example4a";
+			path = "resize-example4a.app";
+			remoteRef = 756470D62B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470D92B359ED10082FA2E /* resize-example4b */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = "resize-example4b";
+			path = "resize-example4b.app";
+			remoteRef = 756470D82B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470DB2B359ED10082FA2E /* resize-example5a */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = "resize-example5a";
+			path = "resize-example5a.app";
+			remoteRef = 756470DA2B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470DD2B359ED10082FA2E /* resize-example5b */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = "resize-example5b";
+			path = "resize-example5b.app";
+			remoteRef = 756470DC2B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470DF2B359ED10082FA2E /* resize-example5c */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = "resize-example5c";
+			path = "resize-example5c.app";
+			remoteRef = 756470DE2B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470E12B359ED10082FA2E /* resizebox */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = resizebox;
+			path = resizebox.app;
+			remoteRef = 756470E02B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470E32B359ED10082FA2E /* rotated_text */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = rotated_text;
+			path = rotated_text.app;
+			remoteRef = 756470E22B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470E52B359ED10082FA2E /* scroll */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = scroll;
+			path = scroll.app;
+			remoteRef = 756470E42B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470E72B359ED10082FA2E /* shape */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = shape;
+			path = shape.app;
+			remoteRef = 756470E62B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470E92B359ED10082FA2E /* subwindow */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = subwindow;
+			path = subwindow.app;
+			remoteRef = 756470E82B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470EB2B359ED10082FA2E /* sudoku */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = sudoku;
+			path = sudoku.app;
+			remoteRef = 756470EA2B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470ED2B359ED10082FA2E /* symbols */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = symbols;
+			path = symbols.app;
+			remoteRef = 756470EC2B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470EF2B359ED10082FA2E /* table */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = table;
+			path = table.app;
+			remoteRef = 756470EE2B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470F12B359ED10082FA2E /* tabs */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = tabs;
+			path = tabs.app;
+			remoteRef = 756470F02B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470F32B359ED10082FA2E /* terminal */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = terminal;
+			path = terminal.app;
+			remoteRef = 756470F22B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470F52B359ED10082FA2E /* threads */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = threads;
+			path = threads.app;
+			remoteRef = 756470F42B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470F72B359ED10082FA2E /* tile */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = tile;
+			path = tile.app;
+			remoteRef = 756470F62B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470F92B359ED10082FA2E /* tiled_image */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = tiled_image;
+			path = tiled_image.app;
+			remoteRef = 756470F82B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470FB2B359ED10082FA2E /* tree */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = tree;
+			path = tree.app;
+			remoteRef = 756470FA2B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470FD2B359ED10082FA2E /* twowin */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = twowin;
+			path = twowin.app;
+			remoteRef = 756470FC2B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756470FF2B359ED10082FA2E /* unittests */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = unittests;
+			path = unittests.app;
+			remoteRef = 756470FE2B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756471012B359ED10082FA2E /* utf8 */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = utf8;
+			path = utf8.app;
+			remoteRef = 756471002B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756471032B359ED10082FA2E /* valuators */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = valuators;
+			path = valuators.app;
+			remoteRef = 756471022B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756471052B359ED10082FA2E /* windowfocus */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = windowfocus;
+			path = windowfocus.app;
+			remoteRef = 756471042B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		756471072B359ED10082FA2E /* wizard */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			name = wizard;
+			path = wizard.app;
+			remoteRef = 756471062B359ED10082FA2E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+/* End PBXReferenceProxy section */
 
 /* Begin PBXResourcesBuildPhase section */
 		C9F530671BB33D4C00D198AF /* Resources */ = {
@@ -510,6 +2288,11 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
+		756471092B359EFD0082FA2E /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = ALL_BUILD;
+			targetProxy = 756471082B359EFD0082FA2E /* PBXContainerItemProxy */;
+		};
 		C9F530811BB33D6500D198AF /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = C9D5EF611961973A00AEDF1C /* ElektrikTrickQuickLook */;
